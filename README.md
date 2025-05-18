@@ -64,6 +64,7 @@ The data for this project is structured across three main tables:
 
 ### Entity Relationship Diagram (ERD)
 <img width="554" alt="image" src="https://github.com/user-attachments/assets/43934348-4560-480b-bb2e-a77307162d31" />
+
 - One-to-many relationship from Content → Reactions
 - One-to-many relationship from ReactionTypes → Reactions
 
