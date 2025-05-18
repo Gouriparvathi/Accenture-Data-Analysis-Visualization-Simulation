@@ -36,9 +36,9 @@ Categories such as “Public Speaking” and “Veganism” show consistently lo
 Incorporate real-time sentiment and reaction data into content planning cycles. This will help quickly adapt to shifting audience preferences and fine-tune campaigns based on which topics and formats generate the most positive interactions.
 
 ## 3. Project Artifacts
-📊 Interactive Power BI Dashboard:
+📊 Interactive Power BI Dashboard:[here](Dashboards/SocialBuzz_Analysis.pbix)
 
-📈 Cleaned & Transformed Excel Files:
+📈 Cleaned & Transformed Excel Files:[here](Datasets)
 
 ## 4. Data Structure (ERD Diagram)
 The data for this project is structured across three main tables:
